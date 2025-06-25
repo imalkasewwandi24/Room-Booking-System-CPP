@@ -43,11 +43,3 @@ A console-based Hotel Room Booking System developed in **C++** for the Moon Hote
 
 ---
 
-## 🚀 How to Run
-
-1. Open the solution file (`.sln`) in Visual Studio.
-2. Build the project: `Build > Build Solution` or press `Ctrl + Shift + B`.
-3. Run the project: `Debug > Start Without Debugging` or press `Ctrl + F5`.
-4. Follow on-screen menu instructions for login and booking operations.
-
----
